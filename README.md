@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8b9cbc48880a647aba320d4dcf06953ff2ec16205197f1f2242bf5b750000c77/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini11113&label=Profile%20views&color=0e75b6&style=flat" alt="varshini11113" /> </p>
 
-- 🔭 I’m currently working on [Amazon Clone Website](https://github.com/Varshini11113/Amazon-Clone_Varshini)
+- 🔭 I’m currently working on [MediMatch - Personal Medical Assistant](https://github.com/Varshini11113/Google-Girl-Hackathon.git)
 
-- 🌱 I’m currently learning **JAVA, JavaScript, ReactJS, MERN stack development**
+- 🌱 I’m currently learning **JavaScript, ReactJS, Machine Learning**
 
 - 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1mjC6-bGaKMbt5HkR9ljnkLFNxZ601IVr?usp=drive_link](https://drive.google.com/drive/folders/1mjC6-bGaKMbt5HkR9ljnkLFNxZ601IVr?usp=drive_link)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varshinimurugesan5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing](https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing)
+- 📄 Know about my experiences thro' [Resume]([https://drive.google.com/file/d/1DbRNvknybXzglb5iqSJslyHZU1VYL8io/view?usp=sharing](https://drive.google.com/drive/folders/1AfvUo4fVpiUt-A28w8l6-5nekgE7Deys))
 
 - ⚡ Fun fact **Did you know? I write code faster than I serve a killer table tennis shot!**
 
